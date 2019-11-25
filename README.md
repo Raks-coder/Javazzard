@@ -14,3 +14,5 @@
 Star the repository if you find it useful !
 
 Happy Coding !
+
+![Rakshit Malhotra](https://img.shields.io/badge/Thank-You-orange.svg?style=for-the-badge)
