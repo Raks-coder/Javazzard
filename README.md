@@ -11,7 +11,7 @@
 
 > If you need any particular code that is not present in the repository, just put your question under issues
 
-> The repository also consists of some of JAVA Programming course Lab exercies which maybe helpful for beginners
+> The repository also consists of some of the JAVA Programming course Lab exercises which maybe helpful for beginners
 
 Star the repository if you find it useful !
 
